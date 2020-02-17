@@ -696,6 +696,10 @@ F:	package/python-paho-mqtt/
 F:	package/qhull/
 F:	package/tcllib/
 
+N:	Delio Brignoli <dbrignoli@audioscience.com>
+F:	board/technexion/imx8mm-xore-wizard/
+F:	configs/imx8mm-xore-wizard_defconfig
+
 N:	Denis Bodor <lefinnois@lefinnois.net>
 F:	package/libstrophe/
 
